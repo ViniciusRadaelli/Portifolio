@@ -1,0 +1,16 @@
+body {
+    color: #fff;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+
+.foto {
+    text-align: center;
+}
