@@ -14,3 +14,13 @@ header img {
 .foto {
     text-align: center;
 }
+
+.centralizar{
+    display: flex;
+    justify-content: center;
+    
+    /*align-items: center;*/
+    max-width: 720px;
+    margin: auto;
+    
+}
