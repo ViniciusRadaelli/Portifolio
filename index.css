@@ -1,7 +1,7 @@
 body {
-    color: #fff;
-    background-color: black;
-    font-family: 'Times New Roman', Times, serif;
+    color: #c3c3c3;
+    background-color: #1a1a1a;
+    font-family: sans-serif;
 }
 
 ul {
@@ -30,6 +30,10 @@ header img{
 
 h1 {
     color: green;
+}
+
+h2, h3 {
+    color: #fff;
 }
 
 footer img {
