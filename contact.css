@@ -1,7 +1,7 @@
 body {
     color: #fff;
-    background-color: #0f0f0f;
-    font-family: 'Times New Roman', Times, serif;
+    background-color: #1a1a1a;
+    font-family: sans-serif;
 }
 
 header img {
@@ -19,7 +19,6 @@ header img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: red;
     align-items: center;
     max-width: 720px;
     margin: auto;
@@ -34,13 +33,15 @@ header img {
     margin-bottom: 10px;
     border-radius: 50px;
     width: 160px;
-    background-color: #222351;
-    color: white;
+    background-color: #ffffff;
+    color: #1a1a1a;
     text-decoration: none;
     text-align: center;
+    font-weight: 700;
     transition: all 0.3s ease;
 } 
 
 .btn:hover{
-    background-color: #424599;
+    background-color: green; 
+    color: #fff;
 }
